@@ -3,6 +3,7 @@
 # data not included
 *.csv
 *.xlsx
+*.DS_Store
 
 # =================================
 # part from R template 
